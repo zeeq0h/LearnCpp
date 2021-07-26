@@ -16,6 +16,7 @@ Any files outwith a folder are recently added files and will be dealt with in du
 ## Learning resources
 
 Leaned by using various sources such as:
-1. Udemy C++ course
-2. Sololearn.com 
-3. HackerRank.com
+1. [Udemy C++ Course](https://www.udemy.com/course/free-learn-c-tutorial-beginners/learn/lecture/3761044?start=0#overview)
+2. [Sololearn](https://www.sololearn.com)
+3. [LearnCpp](https://www.learncpp.com)
+4. [HackerRank](https://www.hackerrank.com)
