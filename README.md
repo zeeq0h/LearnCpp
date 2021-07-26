@@ -1,8 +1,10 @@
 # Collection of all the C++ tutorials I have learned
 
-## How to download the repository
-using git:
+## How to download or clone the repository
+### Cloning using git:
 `git clone https://github.com/zeeq0h/LearningCpp`
+### Downloading the repository as a .zip folder
+...
 
 ## Order of completion
 I would recommend reading each section in the following order:
