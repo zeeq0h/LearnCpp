@@ -2,7 +2,7 @@
 
 ## How to download the repository
 using git:
-`https://github.com/zeeq0h/LearningCpp`
+`git clone https://github.com/zeeq0h/LearningCpp`
 
 ## Order of completion
 I would recommend reading each section in the following order:
