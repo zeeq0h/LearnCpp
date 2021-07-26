@@ -1,6 +1,15 @@
 # Collection of all the C++ tutorials I have learned
 
-## A series of tutorials used in learning C++ 
+## Order of completion
+I would recommend reading each section in the following order:
+1. Variables and Arrays
+2. Expressions
+3. Functions
+4. TBC
+
+Any files outwith a folder are recently added files and will be dealt with in due time.
+
+## Learning resources
 
 Leaned by using various sources such as:
 1. Udemy C++ course
