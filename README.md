@@ -1,5 +1,9 @@
 # Collection of all the C++ tutorials I have learned
 
+## How to download the repository
+using git:
+'https://github.com/zeeq0h/LearningCpp'
+
 ## Order of completion
 I would recommend reading each section in the following order:
 1. Variables and Arrays
