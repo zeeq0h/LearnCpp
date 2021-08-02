@@ -17,6 +17,8 @@ Sample Output:
 #include <iostream>
 using namespace std;
 
+bool palindrome;
+
 bool isPalindrome(int x){
     //complete the function
     int givenNumber, copyNumber = x; //number given by the user
@@ -28,7 +30,10 @@ bool isPalindrome(int x){
         copyNumber = copyNumber / 10; //creating a new number
     }
     while(copyNumber != 0);
+
     return reversedNumber;
+    //TODO: compare the reversed number to the original to display appropriate response
+    
 }
 
 int main() {
