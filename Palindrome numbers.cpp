@@ -28,10 +28,12 @@ bool isPalindrome(int x){
         copyNumber = copyNumber / 10; //creating a new number
     }
     while(copyNumber != 0);
-
+    return reversedNumber;
+}
 
 int main() {
     int n;
+    cout << "Please enter the number to be checked if it is a palindrome or not ";
     cin >> n;
 
     if(isPalindrome(n)) {
