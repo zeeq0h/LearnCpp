@@ -21,14 +21,14 @@ bool isPalindrome(int x){
     //complete the function
     int givenNumber, copyNumber = x; //number given by the user
     int currentDigit, reversedNumber = 0; 
-    
+
     do {
-    
+        currentDigit = copyNumber % 10; //takes the remainder
+        reversedNumber = (reversedNumber * 10) + currentDigit; //creating the reversed number
+        copyNumber = copyNumber / 10; //creating a new number
     }
+    while(copyNumber != 0);
 
-
-
-}
 
 int main() {
     int n;
