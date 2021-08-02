@@ -31,9 +31,7 @@ bool isPalindrome(int x){
     }
     while(copyNumber != 0);
 
-    return reversedNumber;
-    //TODO: compare the reversed number to the original to display appropriate response
-    
+    return 0;
 }
 
 int main() {
@@ -41,12 +39,12 @@ int main() {
     cout << "Please enter the number to be checked if it is a palindrome or not ";
     cin >> n;
 
-    if(isPalindrome(n)) {
-        cout << n << " is a palindrome";
+    if (n == isPalindrome(n)) {
+        cout << n << " is a palindrome" << endl;
     }
     else {
-        cout << n << " is not a palindrome";
+        cout << n << " is not a palindrome" << endl;
     }
 
-    return 0;
+    return EXIT_SUCCESS;
 }
