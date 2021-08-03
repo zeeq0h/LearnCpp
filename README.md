@@ -17,11 +17,16 @@ Any files outwith a folder are recently added files and will be dealt with in du
 
 ## Learning resources
 
-Leaned by using various sources such as:
+### Leaned by using various sources such as:
 1. [Udemy C++ Course](https://www.udemy.com/course/free-learn-c-tutorial-beginners/learn/lecture/3761044?start=0#overview)
 2. [Sololearn](https://www.sololearn.com)
 3. [LearnCpp](https://www.learncpp.com)
 4. [HackerRank](https://www.hackerrank.com)
+5. [C++ Primer](http://ptgmedia.pearsoncmg.com/images/9780321714114/samplepages/0321714113.pdf)
+
+### Other useful resources
+1. [Compiling with G++](https://www.geeksforgeeks.org/compiling-with-g-plus-plus/)
+2. [Using git](https://www.w3schools.com/GIT/default.asp)
 
 ## Challenges
 ### 1. Palindrome numbers
