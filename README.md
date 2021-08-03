@@ -22,3 +22,16 @@ Leaned by using various sources such as:
 2. [Sololearn](https://www.sololearn.com)
 3. [LearnCpp](https://www.learncpp.com)
 4. [HackerRank](https://www.hackerrank.com)
+
+## Challenges
+### 1. Palindrome numbers
+
+A palindromic number is a number (such as 626) that remains the same when its digits are reversed.
+Write a function that returns true if a given number is a palindrome, and false, if it is not.
+Complete the given function, so that the code in main works and results in the expected output.
+
+Sample Input:
+13431
+
+Sample Output:
+13431 is a palindrome
