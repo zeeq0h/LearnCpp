@@ -4,7 +4,7 @@
 ### Cloning using git:
 `git clone https://github.com/zeeq0h/LearningCpp`
 ### Downloading the repository as a .zip folder
-`https://github.com/zeeq0h/LearningCpp/archive/refs/heads/master.zip`
+[Download here](https://github.com/zeeq0h/LearningCpp/archive/refs/heads/master.zip)
 
 ## Order of completion
 I would recommend reading each section in the following order:
