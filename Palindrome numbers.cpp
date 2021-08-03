@@ -3,7 +3,7 @@
 Palindrome Numbers
 
 
-A palindromic number is a number (such as 626) that remains the same when its digits are reversed.
+:NOTE: A palindromic number is a number (such as 626) that remains the same when its digits are reversed.
 Write a function that returns true if a given number is a palindrome, and false, if it is not.
 Complete the given function, so that the code in main works and results in the expected output.
 
@@ -27,7 +27,7 @@ bool isPalindrome(int x){
     do {
         currentDigit = copyNumber % 10; //takes the remainder
         reversedNumber = (reversedNumber * 10) + currentDigit; //creating the reversed number
-        copyNumber = copyNumber / 10; //creating a new number
+        copyNumber = copyNumber / 10;
     }
     while(copyNumber != 0);
 
