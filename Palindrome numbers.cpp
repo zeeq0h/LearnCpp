@@ -44,7 +44,7 @@ int main() {
         cout << n << " is a palindrome" << endl;
     }
     else {
-        cout << n << " is not a palindrome" << endl;
+        cout << n << " is NOT a palindrome" << endl;
     }
 
     return EXIT_SUCCESS;
