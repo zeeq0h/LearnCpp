@@ -19,7 +19,7 @@ using namespace std;
 
 bool palindrome;
 
-bool isPalindrome(int x){
+int isPalindrome(int x){
     //complete the function
     int givenNumber, copyNumber = x; //number given by the user
     int currentDigit, reversedNumber = 0; 
@@ -31,7 +31,8 @@ bool isPalindrome(int x){
     }
     while(copyNumber != 0);
 
-    return 0;
+    //cout << reversedNumber;
+    return reversedNumber;
 }
 
 int main() {
