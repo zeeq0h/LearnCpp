@@ -1,5 +1,4 @@
 
-You can try it in this way
 #include <iostream>
 using namespace std;
 
