@@ -1,4 +1,4 @@
-# Collection of all the C++ tutorials I have learned
+# Collection of useful C++ tutorials
 
 ## How to download or clone the repository
 ### Cloning using git:
