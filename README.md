@@ -2,9 +2,9 @@
 
 ## How to download or clone the repository
 ### Cloning using git:
-`git clone https://github.com/zeeq0h/LearningCpp`
+`git clone https://github.com/zeeq0h/LearnCpp`
 ### Downloading the repository as a .zip folder
-[Download here](https://github.com/zeeq0h/LearningCpp/archive/refs/heads/master.zip)
+[Download here](https://github.com/zeeq0h/LearnCpp/archive/refs/heads/master.zip)
 or copy and paste this link into your browser `https://github.com/zeeq0h/LearningCpp/archive/refs/heads/master.zip`
 
 ## Order of completion
