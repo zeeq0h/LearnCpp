@@ -41,7 +41,7 @@ unsigned long long int total = 0; //8bytes,	0 to 18,446,744,073,709,551,615
 
 int calculateTotal(int a, int b, int c, int d)
 {
-    total = pow(a, b) + pow(c, d);
+    total = (pow(a, b) + pow(c, d));
     return total;
 }
 
@@ -57,4 +57,8 @@ int main()
     cin >> b;
     cin >> c;
     cin >> d;
+
+    calculateTotal(a,b,c,d);
+
+    cout << "The total value is" << endl << total << endl;
 }
