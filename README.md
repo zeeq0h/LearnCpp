@@ -41,6 +41,8 @@ Sample Input:
 Sample Output:
 13431 is a palindrome
 
+--------------------------------------------------
+
 ### 2. Find the largest value of an array
 
 Given an array of n integers, sort them so that n integers are into increasing size
@@ -49,6 +51,8 @@ Sample Input:
 1 8 15 3
 Sample Output:
 1 3 8 15
+
+--------------------------------------------------
 
 ### 3. Integers come in all sizes
 

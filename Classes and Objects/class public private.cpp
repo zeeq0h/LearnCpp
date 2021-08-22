@@ -13,11 +13,12 @@ class myClass {
       name = x;
     }
     //We can add another public method in order to get the value of the attribute.
+    //this is called an access specifier
 
     string getName() {
       return name;
     }
-    
+
   private:
     string name;
 };
