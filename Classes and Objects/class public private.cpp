@@ -27,7 +27,7 @@ int main() {
     myClass myObj;
     myObj.setName("John");
 
-    cout << myObj.getName()
+    cout << myObj.getName(); //we can now access the private name with our access indentifier.
 
     return 0;
 }
