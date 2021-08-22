@@ -7,13 +7,19 @@ A public member function may be used to access the private members. For example:
 using namespace std;
 
 class myClass {
-    public:
-        void setName(string x) {
-            name = x;
-        }
+  public:
 
-    private:
-        string name;
+    void setName(string x) {
+      name = x;
+    }
+    //We can add another public method in order to get the value of the attribute.
+
+    string getName() {
+      return name;
+    }
+    
+  private:
+    string name;
 };
 
 int main() {
