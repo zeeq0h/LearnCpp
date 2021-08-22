@@ -12,7 +12,7 @@ I would recommend reading each section in the following order:
 1. Variables and Arrays
 2. Expressions
 3. Functions
-4. TBC
+4. Classes and Objects
 
 Any files outwith a folder are recently added files and will be dealt with in due time.
 
