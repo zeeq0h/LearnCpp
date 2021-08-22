@@ -27,5 +27,7 @@ int main() {
     myClass myObj;
     myObj.setName("John");
 
+    cout << myObj.getName()
+
     return 0;
 }
