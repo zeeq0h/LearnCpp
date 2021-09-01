@@ -1,6 +1,7 @@
 #ignore environment folders
 .vscode/
 .vs/
+.idea/
 
 #ignore executable files
 *.exe
